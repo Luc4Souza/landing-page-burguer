@@ -2,6 +2,10 @@
     header{
         padding: 15px 40px;
     }
+    .box-img{
+        width: 200px;
+        height: 150px;
+    }
     :root{
         --big-font:3.5rem;
         --h2-font:2rem;

@@ -12,6 +12,7 @@
     --main-color:#ff702a;
     --text-color:#fff;
     --bg-color:#1e1c2a;
+    --text-logo:'Permanent Marker', cursive;
     --big-font:5rem;
     --h2-font:2.25rem;
     --p-font:0.9rem
@@ -39,7 +40,8 @@ header{
 .logo{
     color: var(--main-color);
     font-weight: 600;
-    font-size: 2.4rem;
+    font-size: 3rem;
+    font-family: var(--text-logo);
 }
 .navbar{
     display: flex;
